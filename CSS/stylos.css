@@ -1,0 +1,40 @@
+*{
+    background-color: aqua;
+    color: black;
+}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
+img{
+    border-radius: 0.5rem;
+    border-color: blueviolet;
+    height: 5rem;
+    right: 5rem;
+    width: 7rem;
+}
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+
+}
+#BT1 {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: rgb(0, 0, 0);
+border-radius: 0.5rem;
+border-color: blueviolet;
+cursor: pointer;
+background-color: rgb(244, 109, 242);
+}
+.resaltado {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blueviolet;
+}
+.BT2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    border-radius: 0.5rem;
+    border-color: blueviolet;
+    cursor: pointer;
+    background-color: rgb(244, 109, 242);
+}

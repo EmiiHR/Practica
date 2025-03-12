@@ -38,3 +38,11 @@ background-color: rgb(244, 109, 242);
     cursor: pointer;
     background-color: rgb(244, 109, 242);
 }
+.IMG3{
+    border-radius: 0.5rem;
+    border-color: blueviolet;
+    height: 20rem;
+    right: 5rem;
+    width: 15rem;
+}
+
